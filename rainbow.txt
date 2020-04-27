@@ -3,6 +3,7 @@ the colours of rainbow:
 violet
 indigo
 blue
+green
 red
 orange
 
